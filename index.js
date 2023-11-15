@@ -39,3 +39,8 @@ Ao final deve se exibir uma mensagem:
   
 Bons estudos 😉
 */
+
+
+function rankedMatchesCalc(numberOfWins, playerDefeats){
+    let wins = 
+}
